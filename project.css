@@ -1,0 +1,41 @@
+body {
+    color:#343434;
+
+}
+
+img {
+
+    width:300px;
+}
+
+a {
+    color:#ffe66d;
+}
+
+header {
+
+    background:#2f3061;
+    color:#f7fff7;
+}
+
+.project {
+
+    background:#f7fff7;
+    
+
+}
+.project img {
+
+    width:150px;
+}
+
+.work {
+
+    background:#a1c6d7;
+}
+
+footer {
+    background:#343434;
+    color:#f7fff7;
+
+}
