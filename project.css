@@ -1,5 +1,7 @@
 body {
     color:#343434;
+    margin:0;
+    padding:0;
 
 }
 
@@ -38,4 +40,21 @@ footer {
     background:#343434;
     color:#f7fff7;
 
+}
+
+.content-wrap {
+
+    width:850px;
+    margin:0 auto;
+    padding: 60px 0;
+
+}
+
+h2 {
+    margin:0;
+    border-bottom:#f7fff7 inset 15px;
+    text-align:center;
+}
+h3 {
+    text-align:center;
 }
